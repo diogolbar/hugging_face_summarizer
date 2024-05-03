@@ -2,7 +2,7 @@
 
 ---
 title: Summarizer
-emoji: 
+emoji: 🌖
 colorFrom: purple
 colorTo: purple
 sdk: gradio
