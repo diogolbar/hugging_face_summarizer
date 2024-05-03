@@ -1,5 +1,5 @@
 ---
-title: Demo
+title: Summarizer
 emoji: 🌖
 colorFrom: purple
 colorTo: purple
